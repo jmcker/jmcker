@@ -1,4 +1,8 @@
-### Hi there 👋
+### Buongiorno 👋 ###
+
+<a href="https://github.com/jmcker">
+    <img align="center" alt="Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jmcker&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight"/>
+</a>
 
 <!--
 **jmcker/jmcker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
